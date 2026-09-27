@@ -218,4 +218,4 @@ Backworlds is offered as a full free version, allowing players to access all fea
 Dive into the captivating world of Backworlds and experience the adventure today! Download your copy now and start exploring!
 
 ---
-**Last updated:** 2026-09-26 21:43:14 UTC
+**Last updated:** 2026-09-27 00:03:19 UTC
